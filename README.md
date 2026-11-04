@@ -1,4 +1,3 @@
-# portfolio-PetrVasilev
 # Portfolio: Junior Data Analyst | Product Analyst | BI Analyst
 
 Привет! Меня зовут Петр, я начинающий Data Analyst. За плечами у меня сильная база в коммерческой и корпоративной юриспруденции, а также практический опыт в решении аналитических задач, построении дашбордов и продуктовых метрик.
@@ -34,6 +33,7 @@
 git clone [https://github.com/ptrvslv/portfolio-PetrVasilev.git](https://github.com/ptrvslv/portfolio-PetrVasilev.git)
 cd portfolio-PetrVasilev
 jupyter notebook cb_investments.ipynb
+
 📫 Контакты
 GitHub: @ptrvslv
 
